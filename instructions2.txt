@@ -1,0 +1,173 @@
+Tu es un directeur artistique senior, UX writer senior, recruteur en ingénierie exigeant et concepteur de portfolio haut de gamme. Ta mission est de créer une landing page portfolio personnelle premium destinée en priorité à convaincre des recruteurs, responsables techniques, ingénieurs d’études, bureaux d’études, entreprises de construction, laboratoires matériaux ou industriels du BTP, pour un stage de 3 à 4 mois en industrie avec dominante génie civil.
+
+Crée une page one-page très professionnelle, sobre, claire, crédible et mémorable. Elle doit immédiatement transmettre : rigueur, sérieux, cohérence du parcours, capacité de travail, méthode scientifique, potentiel opérationnel et qualité de présentation.
+
+Le site ne doit surtout pas ressembler à un portfolio de designer ou à une page startup générique. Il doit évoquer un futur ingénieur / stagiaire technique fiable, structuré, consciencieux, capable d’apprendre vite, de documenter son travail et de contribuer dans un cadre industriel réel.
+
+Contexte candidat à intégrer fidèlement :
+- Nom public : [NOM EXACT À AFFICHER]
+- Localisation : Douai / Hauts-de-France / France
+- Poste recherché : stage de 3 à 4 mois en industrie, en priorité dans le domaine du génie civil
+- Formation actuelle : cycle ingénieur en génie civil et environnemental à IMT Nord Europe
+- Formation antérieure : CPGE MPSI-MP au lycée Sainte-Geneviève
+- Expérience parallèle : professeur particulier de mathématiques et de physique chez Acadomia
+- Langues : français bilingue/natif, anglais courant, chinois élémentaire
+- Certification complémentaire : Meta Full Stack Developer, à présenter comme preuve de polyvalence numérique et d’autonomie, sans en faire l’axe principal
+- Certifications complémentaires :
+  - MOOC Gestion de projet - Tronc commun, Rémi Bachelet, janvier 2024
+  - Introduction aux outils de TRIZ, Rémi Bachelet, janvier 2024
+- Ces certifications doivent être présentées comme des preuves complémentaires de culture projet, de méthode, de résolution créative de problèmes et de structuration de la réflexion, utiles dans un contexte industriel et d’ingénierie.
+
+Données académiques et de crédibilité à transformer en preuves élégantes, jamais en relevé brut :
+- 55/60 crédits validés en première année du cycle ingénieur
+- 28/30 crédits validés au semestre 1 de deuxième année
+- 20/20 en programmation orientée objet 1
+- 19,82/20 en programmation orientée objet 2
+- 18/20 en projet de data science
+- Projet de découverte et de recherche sur le développement de mortiers / encres cimentaires à faible impact carbone pour l’impression 3D béton
+
+Objectif stratégique :
+1. En moins de 10 secondes, le recruteur doit comprendre que le candidat cherche un stage en industrie orienté génie civil.
+2. En moins de 20 secondes, il doit percevoir le sérieux académique et la discipline intellectuelle du candidat.
+3. En moins de 30 secondes, il doit voir des preuves de projet, de méthode, de technicité et de capacité à contribuer.
+4. En moins d’une minute, il doit avoir envie de contacter le candidat pour un entretien ou de consulter son CV.
+
+Direction artistique :
+- Univers visuel : premium, technique, industriel, éditorial, sobre
+- Palette : blanc cassé, gris béton, anthracite, noir doux
+- Accent discret : vert minéral, bleu acier ou gris bleuté
+- Ambiance : calme, solide, mature, précise
+- Aucune esthétique flashy, aucun gradient agressif, aucun look startup SaaS
+- Mise en page élégante, hiérarchie visuelle impeccable, beaucoup d’espace négatif
+- La photo professionnelle doit être utilisée dans le hero comme ancre visuelle principale
+- Les photos de laboratoire / manipulation doivent être intégrées plus bas comme preuves visuelles du rapport au matériau, à l’expérimentation et au travail technique
+
+Structure obligatoire :
+
+1) HERO SECTION
+- Grand portrait professionnel du candidat
+- Nom complet
+- Titre clair et crédible, par exemple :
+  “Étudiant ingénieur en génie civil et environnemental”
+  “Candidat à un stage en industrie — Génie civil”
+  “Profil rigoureux en génie civil, matériaux et analyse technique”
+- Sous-titre de 2 à 3 lignes expliquant la valeur du profil :
+  base scientifique exigeante, formation en ingénierie, expérience de projets techniques, intérêt fort pour les problématiques industrielles, capacité à apprendre vite et à travailler avec méthode
+- Deux CTA visibles immédiatement :
+  “Voir mon parcours”
+  “Télécharger mon CV”
+  ou
+  “Voir mes projets”
+  “Me contacter”
+- Ajouter une micro-ligne de crédibilité :
+  “IMT Nord Europe · Génie civil et environnemental · Projet matériaux bas carbone · Disponible pour un stage de 3–4 mois”
+
+2) BARRE DE PREUVE IMMÉDIATE
+Créer un bandeau premium avec 4 à 6 éléments courts :
+- IMT Nord Europe
+- 55/60 crédits validés
+- 28/30 crédits validés
+- Projet matériaux bas carbone
+- TOEIC 925/990
+- Acadomia / pédagogie scientifique
+Présenter ces éléments comme signaux de discipline, de sérieux et de constance.
+
+3) SECTION “PROFIL”
+Rédiger un texte de présentation très solide, adulte et professionnel.
+Le texte doit raconter un fil conducteur cohérent :
+- une formation scientifique très exigeante
+- une capacité réelle à travailler sur des sujets complexes
+- une progression naturelle vers des problématiques de génie civil, de matériaux, de structure, d’environnement bâti ou de chantier
+- une appétence pour les environnements industriels où rigueur, observation, analyse et exécution comptent
+Le ton doit être affirmé, sans emphase ni phrases creuses.
+
+4) SECTION “PROJETS ET EXPÉRIENCES TECHNIQUES”
+Présenter 3 projets / expériences maximum, bien développés.
+
+Projet 1 — projet principal :
+Le projet sur les mortiers / encres cimentaires bas carbone pour impression 3D béton doit être traité comme case study principal.
+Pour ce projet, montrer :
+- contexte et enjeu environnemental / technique
+- objectif du projet
+- démarche expérimentale
+- formulation / caractérisation / analyse
+- ce que le candidat a concrètement fait
+- ce que cela démontre : méthode, curiosité technique, rigueur, compréhension matériau, capacité à conduire un travail appliqué
+
+Projet 2 :
+Un projet académique montrant analyse, calcul, modélisation ou conception.
+Si pertinent, utiliser le projet Splendor Marvel en Java comme preuve secondaire de logique, de structuration et de modélisation, mais le présenter comme compétence analytique complémentaire, non comme cœur du profil.
+
+Projet 3 :
+Chronosun ou autre expérience pertinente uniquement si cela apporte une valeur claire : pédagogie technique, vulgarisation scientifique, conception de support, créativité utile.
+
+Pour chaque projet, afficher :
+- titre
+- dates
+- contexte
+- objectif
+- méthode
+- contribution personnelle
+- outils / logiciels / techniques mobilisés
+- résultats / apprentissages
+- ce que cela démontre pour un stage industriel
+
+5) SECTION “COMPÉTENCES”
+Organiser les compétences par catégories lisibles :
+- Génie civil / matériaux / structure / environnement : [compléter selon les éléments exacts]
+- Analyse et méthode : modélisation, statistiques, optimisation, raisonnement scientifique
+- Outils techniques : Excel, CAO, SolidWorks, AutoCAD, Revit, Matlab, Linux, Git, Python
+- Compétences numériques complémentaires : HTML, CSS, JavaScript, React, Django, API, SQL
+- Qualités professionnelles : rigueur, autonomie, pédagogie, sens du détail, esprit d’équipe, adaptabilité
+Montrer clairement que les compétences numériques complètent le profil d’ingénieur au lieu de le détourner.
+
+6) SECTION “PARCOURS”
+Créer une timeline très lisible et rassurante :
+- CPGE MPSI-MP : exigence, discipline, endurance intellectuelle
+- IMT Nord Europe : mise en pratique, confrontation aux projets, apprentissage des outils et méthodes d’ingénierie
+- Projet matériaux bas carbone : approfondissement technique appliqué
+- Acadomia : clarté d’explication, fiabilité, sens des responsabilités
+- Certification Meta : ouverture numérique, curiosité, autonomie d’apprentissage
+Le message doit être : parcours cohérent, dense, sérieux, avec une vraie capacité d’adaptation.
+
+7) SECTION “DOCUMENTS ET PREUVES”
+Créer une zone très sobre avec :
+- bouton CV
+- encart “Certification Meta” présenté comme preuve complémentaire de culture numérique
+- mention discrète “Relevés académiques disponibles sur demande”
+- éventuellement un encart “Disponibilité : stage industrie 3–4 mois”
+
+8) SECTION “CONTACT”
+Créer une dernière section très simple et forte :
+- email
+- téléphone [si souhaité]
+- LinkedIn
+- localisation
+- disponibilité
+- bouton principal “Me contacter”
+Ajouter une phrase finale du type :
+“Je recherche actuellement un stage de 3 à 4 mois en industrie, en priorité dans le domaine du génie civil, au sein d’une structure où je pourrai contribuer avec sérieux, apprendre vite et consolider mon expérience technique.”
+
+Règles de fond :
+- Ne rien inventer
+- Ne pas exagérer l’expérience
+- Ne pas présenter le candidat comme déjà expert terrain
+- Le présenter comme prometteur, rigoureux, crédible et prêt à s’investir
+- Transformer les résultats académiques en preuves élégantes, pas en argument scolaire brut
+- Éviter tout ton trop commercial
+- Préférer un vocabulaire clair, technique, mature, humain
+
+Règles de design :
+- Responsive impeccable
+- Navigation simple : Profil, Projets, Compétences, Parcours, Contact
+- Animations très discrètes
+- Visuels réels et sobres
+- Lisibilité parfaite
+- Sensation générale : sérieux, stabilité, précision, potentiel
+
+Livrable attendu :
+- landing page complète
+- vrai contenu rédigé
+- direction artistique premium
+- micro-copy des boutons
+- sections prêtes à être montrées à un recruteur de l’industrie / génie civil

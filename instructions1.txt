@@ -1,0 +1,229 @@
+Tu es un directeur artistique senior, UX writer senior, recruteur tech exigeant et développeur frontend expert. Ta mission est de concevoir une landing page portfolio personnelle haut de gamme, pensée pour convaincre immédiatement des recruteurs, managers et responsables d’entretien pour des postes de développeur full-stack, stage tech, alternance tech ou premier poste développeur.
+
+Crée une page one-page premium, sobre, crédible, élégante et mémorable, sans effet “template IA”. Le site doit paraître sérieux, cohérent, professionnel et humain dès la première seconde.
+
+Le portfolio doit présenter un candidat au parcours hybride : base académique scientifique exigeante, formation en ingénierie, excellents signaux en algorithmique/programmation, puis spécialisation affirmée en développement web full-stack.
+
+Voici le contexte à intégrer fidèlement, sans inventer d’informations :
+
+Nom public à afficher : [NOM EXACT À AFFICHER].
+
+Localisation : Douai / Hauts-de-France / France.
+
+Le candidat a suivi une CPGE MPSI-MP au lycée Sainte-Geneviève entre 2022 et 2024, puis un cycle ingénieur en génie civil et environnemental à IMT Nord Europe à partir de septembre 2024.
+
+Son parcours académique doit être présenté comme une preuve de rigueur, d’endurance intellectuelle, de méthode et de capacité d’apprentissage, pas comme une dispersion.
+
+Des éléments académiques forts peuvent être transformés en signaux de crédibilité discrets : 55/60 crédits validés en première année du cycle ingénieur, 28/30 crédits validés au semestre 1 de la deuxième année, 20/20 en Object-Oriented Programming 1, 19,82/20 en Object-Oriented Programming 2, 18/20 en Data Science Project.
+
+Le candidat a obtenu la certification “Meta Full Stack Developer: Front-End & Back-End from Scratch” le 27 mars 2026, après 10 cours couvrant notamment HTML/CSS, JavaScript, React, Python, bases de données, Django et APIs.
+
+Le candidat a une expérience de professeur particulier de mathématiques et physique chez Acadomia depuis septembre 2025, ce qui doit renforcer l’image de pédagogie, de clarté, de fiabilité et de sens des responsabilités.
+
+Langues à valoriser : français natif ou bilingue, anglais courant avec TOEIC 925/990, chinois élémentaire.
+
+Il faut faire ressortir une orientation professionnelle claire vers le développement full-stack, avec une affinité particulière pour React et Django.
+
+Le portfolio doit montrer qu’il ne s’agit pas d’un profil improvisé, mais d’un profil en transition stratégique et cohérente vers le logiciel.
+
+Utilise comme image principale une photo professionnelle en noir et blanc, dramatique, cinématographique, à fort contraste, déjà fournie par l’utilisateur. (see the generated image above)
+
+Cette image doit être la pièce maîtresse du hero. (see the generated image above)
+
+Tu peux utiliser en visuels secondaires deux photos de laboratoire / manipulation technique uniquement pour illustrer la dimension scientifique, expérimentale et rigoureuse du parcours, mais de façon discrète et éditoriale, jamais comme galerie principale.
+
+N’utilise surtout pas les bulletins en tant que documents bruts visibles dans le hero ou dans une section lourde ; transforme-les en preuves synthétiques, lisibles et élégantes.
+
+Objectif stratégique de la landing page :
+
+En moins de 10 secondes, on doit comprendre qui est le candidat.
+
+En moins de 20 secondes, on doit comprendre ce qu’il sait faire techniquement.
+
+En moins de 30 secondes, on doit voir pourquoi son parcours est sérieux et cohérent.
+
+En moins d’une minute, le recruteur doit avoir envie de cliquer sur GitHub, LinkedIn, CV ou de proposer un entretien.
+
+Direction artistique souhaitée :
+
+Univers visuel dark editorial / studio / premium / sobre / cinématographique.
+
+Palette principale : noir profond, anthracite, gris graphite, blanc cassé.
+
+Accent couleur unique et discret : teal sombre, acier bleuté ou vert minéral désaturé.
+
+Aucune esthétique SaaS générique, aucun gradient flashy, aucune icône dans des pastilles colorées, aucune carte “IA” trop standard.
+
+Typographie : une fonte display raffinée et sérieuse pour les titres, combinée à une sans-serif moderne, nette et très lisible pour le corps du texte.
+
+Impression globale : calme, maîtrisée, ambitieuse, précise, mature.
+Structure de page obligatoire :
+
+HERO SECTION — la section la plus importante
+
+Grand portrait noir et blanc du candidat. (see the generated image above)
+
+Nom en très grand.
+
+Titre professionnel clair, crédible et immédiatement lisible. Exemples possibles :
+“Développeur Full-Stack React / Django”
+
+“Full-Stack Developer — React, Django, APIs”
+
+“Ingénierie, rigueur analytique et développement web full-stack”
+
+
+Sous-titre de 2 à 3 lignes maximum expliquant la proposition de valeur : profil à forte rigueur scientifique, spécialisé en développement web moderne, capable d’apprendre vite et de construire des applications propres, structurées et évolutives.
+
+Deux CTA visibles sans scroller : “Voir mes projets” et “Me contacter” ou “Télécharger mon CV”.
+
+Ajouter une micro-ligne de crédibilité juste sous les CTA, par exemple : “Certification Meta Full-Stack · React · Django · Python · API · Basé en France”.
+
+Le hero doit être asymétrique, élégant, aéré, avec beaucoup d’espace négatif.
+
+PREUVE IMMÉDIATE / BARRE DE CRÉDIBILITÉ
+Crée juste sous le hero un bandeau ou une grille courte avec 4 à 6 points de preuve, sous forme de chiffres ou labels très lisibles, par exemple :
+
+“Meta Full-Stack Developer — 10 cours complétés”
+
+“20/20 en programmation orientée objet”
+
+“19,82/20 en Object-Oriented Programming 2”
+
+“18/20 en Data Science Project”
+
+“TOEIC 925/990”
+
+“55/60 + 28/30 crédits validés”
+
+Cette section doit être ultra concise, premium, non scolaire dans la forme, et donner l’impression d’une solidité démontrée.
+
+SECTION “À PROPOS”
+Écris un paragraphe intelligent, adulte et très bien structuré.
+
+Il doit expliquer que le candidat vient d’un environnement académique exigeant, qu’il a développé une vraie discipline intellectuelle, puis qu’il a progressivement consolidé une orientation forte vers le développement logiciel.
+
+Il faut relier la formation d’ingénieur, la programmation, la data, la modélisation et le développement web dans un récit fluide.
+
+Il faut absolument éviter le ton défensif, flou ou “je touche à tout”.
+
+Le texte doit inspirer la confiance, la lucidité et le sérieux.
+
+SECTION “PROJETS SÉLECTIONNÉS”
+Cette section est cruciale. Présente 2 à 4 projets maximum avec un niveau de détail professionnel.
+Pour chaque projet, afficher :
+
+Nom du projet.
+
+Problème ou besoin adressé.
+
+Ce que le candidat a effectivement conçu ou développé.
+
+Stack technique.
+
+Ce que cela démontre sur son niveau.
+
+Lien live / GitHub / case study si disponible.
+Priorités éditoriales pour les projets à mettre en avant :
+
+Les projets full-stack ou web doivent passer avant les projets purement scolaires si des liens sont disponibles.
+
+Si aucun projet web très abouti n’est encore documenté, utilise intelligemment les projets académiques les plus solides pour raconter la méthode, l’analyse, la modélisation et l’exécution.
+
+Tu peux inclure le projet de mortiers bas carbone pour impression 3D béton comme preuve de rigueur expérimentale, de recherche appliquée et de conduite de projet complexe entre octobre 2025 et mars 2026.
+
+Tu peux inclure le projet de stratégie gagnante Splendor Marvel en Java, noté 19,8/20, comme preuve de logique algorithmique, de modélisation objet et de réflexion structurée.
+
+Tu peux inclure un projet pédagogique comme Chronosun seulement si cela sert une narration sur la vulgarisation, l’utilité et la conception de supports.
+
+SECTION “COMPÉTENCES”
+Ne fais pas une simple liste brute. Organise les compétences en blocs hiérarchisés :
+
+Frontend : HTML, CSS, JavaScript, React.
+
+Backend : Python, Django, API REST.
+
+Data / logique / analyse : data science, statistiques, optimisation, modélisation.
+
+Outils et environnement : Git, GitHub, Linux/Debian, Docker, SQL, JSON.
+
+Soft skills : rigueur, autonomie, pédagogie, esprit d’analyse, adaptabilité, sens du détail.
+
+Affiche aussi une hiérarchie implicite : cœur de positionnement = React / Django / Python / JavaScript ; compétences complémentaires = data, automatisation, optimisation, Linux.
+
+SECTION “PARCOURS ET COHÉRENCE”
+Construis une timeline ou une section narrative qui montre la continuité du parcours :
+
+CPGE MPSI-MP : formation à l’exigence, à l’abstraction, à la résolution de problèmes.
+
+IMT Nord Europe : prolongement de la rigueur scientifique, confrontation à des projets, à l’expérimental, à l’analyse, à la programmation et à la data.
+
+Certification Meta full-stack : confirmation concrète d’une orientation nette vers le développement web full-stack moderne.
+
+Acadomia : preuve de fiabilité, de pédagogie et de capacité à expliquer clairement des sujets complexes.
+
+Cette section doit transformer un parcours atypique en argument de valeur.
+
+SECTION “CERTIFICATIONS / PREUVES / DOCUMENTS”
+Crée une section courte, sobre et premium avec :
+
+Carte ou bloc pour la certification Meta Full Stack Developer.
+
+Bouton “Télécharger le CV”.
+
+Optionnel : mention discrète “relevés académiques disponibles sur demande”, mais n’affiche pas les bulletins en brut sur la landing page.
+
+L’objectif est de montrer des preuves, sans alourdir l’expérience.
+
+SECTION “CONTACT / CALL TO ACTION FINAL”
+Cette dernière section doit être très claire, simple et élégante.
+
+Afficher email, LinkedIn, GitHub, localisation, et éventuellement téléphone si souhaité.
+
+Ajouter une phrase CTA qui donne envie de prendre contact : disponible pour entretien, stage, alternance ou opportunités junior selon le contexte fourni par l’utilisateur.
+
+Prévoir un bouton principal très visible.
+Règles de copywriting :
+
+Ton professionnel, sobre, ambitieux, précis.
+
+Aucune phrase creuse du type “passionné par l’innovation” sans preuve concrète.
+
+Pas de jargon inutile.
+
+Pas de texte trop long dans le hero.
+
+Le recruteur doit sentir la rigueur, la cohérence et le potentiel.
+
+Chaque section doit répondre à une question implicite : Qui est-il ? Que sait-il faire ? Pourquoi lui faire confiance ? Pourquoi le contacter ?
+Règles UX/UI :
+
+Responsive irréprochable mobile + desktop.
+
+Navigation discrète avec ancres : À propos, Projets, Compétences, Parcours, Contact.
+
+Scroll fluide, animations très légères et élégantes seulement.
+
+Contraste fort, lisibilité parfaite, hiérarchie visuelle impeccable.
+
+Aucune surcharge graphique.
+
+Le portrait principal doit rester l’ancre émotionnelle du site. (see the generated image above)
+
+Règles d’intégrité :
+
+N’invente aucun projet, aucun chiffre, aucune expérience, aucun diplôme, aucun logo, aucun lien.
+
+Si une donnée manque, laisse un placeholder clair entre crochets.
+
+N’exagère pas le niveau d’expérience : il faut vendre un profil prometteur, crédible et sérieux, pas un senior fictif.
+
+Ne fais jamais ressortir le parcours comme hésitant ou incohérent ; montre au contraire une spécialisation progressive et réfléchie.
+
+Livrable attendu :
+
+Génère la landing page complète avec vrai texte, vraie structure, vrai design system, et une direction artistique premium.
+
+Fournis aussi la micro-copy des boutons, les titres de section, les accroches, et les éléments de preuve.
+
+Le rendu final doit sembler prêt à être montré à un recruteur dès aujourd’hui.
