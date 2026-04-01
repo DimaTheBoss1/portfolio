@@ -1,7 +1,5 @@
-# Deployment files
-Dockerfile
-docker-compose.yml
-nginx.conf
+# Deployment files (don't serve these)
+.dockerignore
 .gitignore
 
 # Instructions (not needed in production)
