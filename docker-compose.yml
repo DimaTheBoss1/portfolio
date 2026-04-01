@@ -1,0 +1,13 @@
+services:
+  portfolio:
+    build: .
+    container_name: portfolio
+    restart: unless-stopped
+    ports:
+      - "8082:80"
+    networks:
+      - portfolio-net
+
+networks:
+  portfolio-net:
+    driver: bridge
