@@ -5,6 +5,34 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
+  // === THEME TOGGLE ===
+  const themeToggle = document.getElementById('theme-toggle');
+  const root = document.documentElement;
+
+  // Apply saved theme or default to light
+  const savedTheme = localStorage.getItem('portfolio-theme') || 'light';
+  if (savedTheme === 'dark') {
+    root.setAttribute('data-theme', 'dark');
+  }
+
+  // Add smooth transition after initial load (prevents flash)
+  requestAnimationFrame(() => {
+    document.body.style.transition = 'background-color 0.4s ease, color 0.4s ease';
+  });
+
+  if (themeToggle) {
+    themeToggle.addEventListener('click', () => {
+      const isDark = root.getAttribute('data-theme') === 'dark';
+      if (isDark) {
+        root.removeAttribute('data-theme');
+        localStorage.setItem('portfolio-theme', 'light');
+      } else {
+        root.setAttribute('data-theme', 'dark');
+        localStorage.setItem('portfolio-theme', 'dark');
+      }
+    });
+  }
+
   // === NAV SCROLL ===
   const nav = document.getElementById('nav2');
 
